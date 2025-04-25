@@ -5,8 +5,11 @@ Um projeto Android que monitora o valor do Bitcoin através de uma Api, atualiza
 ## 📱 Telas
 
 Após entrar no aplicativo, a tela será a seguinte:
+
 ![Tela do aplicativo com o valor zerado](images/TelaZerada.png)
+
 Clicando no botão "Atualizar", essa será a tela:
+
 ![Tela do aplicativo com o valor preenchido](images/TelaDinheiro.png)
 
 ## 🧱 Estrutura do projeto
