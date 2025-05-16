@@ -1,4 +1,4 @@
-# Porjeto: Android-crypto-monitor 
+# Projeto: Android-crypto-monitor 
 
 Um projeto Android que monitora o valor do Bitcoin através de uma Api, atualizando o valor ao clicar no botão "Atualizar".
 
